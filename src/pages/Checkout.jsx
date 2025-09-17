@@ -100,9 +100,9 @@ export default function Checkout() {
         {/* Show transfer details if chosen */}
         {form.paymentMethod === "transfer" && (
           <div className="transfer-details">
-            <p><strong>Bank Name:</strong> MyBank PLC</p>
-            <p><strong>Account Name:</strong> My Shop Ltd</p>
-            <p><strong>Account Number:</strong> 1234567890</p>
+            <p><strong>Bank Name:</strong> Polaris Bank PLC</p>
+            <p><strong>Account Name:</strong> Lekdas Global Ventures</p>
+            <p><strong>Account Number:</strong> 3011186999</p>
             <p>
               Please complete the transfer and keep your receipt for
               confirmation.

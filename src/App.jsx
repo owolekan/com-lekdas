@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
 import Shop from "./pages/Shop";
-import More from "./pages/More";
+import More from "./pages/more";
 import Blog from "./pages/Blog";
 import BlogDetail from "./pages/BlogDetail";
 import CartPage from "./pages/Cart";       // ✅ new
